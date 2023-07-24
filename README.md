@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saba Aghajani</h1>
-<h3 align="center"><a href="https://saba-aghajani-developer.github.io/first-flex-project/" target="blank">This is my first flex project</a></h3>
+<h3 align="center"><a href="https://saba-aghajani-developer.github.io/first-flex-project/" target="-blank">This is my first flex project</a></h3>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saba-aghajani-developer&label=Profile%20views&color=0e75b6&style=flat" alt="saba-aghajani-developer" /> </p>
